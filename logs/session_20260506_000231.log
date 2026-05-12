@@ -1,0 +1,18 @@
+2026-05-06 00:02:54 [INFO] Network scan started: 192.168.1.1 / top
+2026-05-06 00:02:54 [INFO] [SCAN] Starting scan on 192.168.1.1 (1 host(s))
+2026-05-06 00:02:54 [INFO] [SCAN] Port mode: top
+2026-05-06 00:02:54 [INFO] [HOST] 192.168.1.1 is DOWN (no response)
+2026-05-06 00:02:54 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-06 00:02:54 [INFO] Network scan completed.
+2026-05-06 00:03:06 [INFO] Network scan started: 192.168.1.0/24 / top
+2026-05-06 00:03:06 [INFO] [SCAN] Starting scan on 192.168.1.0/24 (254 host(s))
+2026-05-06 00:03:06 [INFO] [SCAN] Port mode: top
+2026-05-06 00:03:06 [INFO] [HOST] 192.168.1.1 is DOWN (no response)
+2026-05-06 00:03:06 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-06 00:03:06 [INFO] Network scan completed.
+2026-05-06 00:03:13 [INFO] URL analysis started: login.comsss
+2026-05-06 00:03:13 [INFO] URL analysis completed.
+2026-05-06 01:11:08 [INFO] Email check started: trixsolution1@gmail.com
+2026-05-06 01:11:09 [INFO] Email check completed.
+2026-05-06 01:11:19 [INFO] Email check started: trixsolution2@gmail.com
+2026-05-06 01:11:19 [INFO] Email check completed.

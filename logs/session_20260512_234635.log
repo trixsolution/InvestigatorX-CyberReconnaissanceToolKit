@@ -1,0 +1,253 @@
+2026-05-12 23:48:37 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:37 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:37 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:37 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:37 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:37 [INFO] Network scan completed.
+2026-05-12 23:48:38 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:38 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:38 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:39 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:39 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:39 [INFO] Network scan completed.
+2026-05-12 23:48:39 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:39 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:39 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:39 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:39 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:39 [INFO] Network scan completed.
+2026-05-12 23:48:40 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:40 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:40 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:40 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:40 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:40 [INFO] Network scan completed.
+2026-05-12 23:48:41 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:41 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:41 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:41 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:41 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:41 [INFO] Network scan completed.
+2026-05-12 23:48:42 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:42 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:42 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:42 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:42 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:42 [INFO] Network scan completed.
+2026-05-12 23:48:42 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:42 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:42 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:42 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:42 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:42 [INFO] Network scan completed.
+2026-05-12 23:48:43 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:43 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:43 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:43 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:43 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:43 [INFO] Network scan completed.
+2026-05-12 23:48:43 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:43 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:43 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:43 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:43 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:43 [INFO] Network scan completed.
+2026-05-12 23:48:44 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:44 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:44 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:44 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:44 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:44 [INFO] Network scan completed.
+2026-05-12 23:48:44 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:44 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:44 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:44 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:44 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:44 [INFO] Network scan completed.
+2026-05-12 23:48:45 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:45 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:45 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:45 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:45 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:45 [INFO] Network scan completed.
+2026-05-12 23:48:46 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:46 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:46 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:46 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:46 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:46 [INFO] Network scan completed.
+2026-05-12 23:48:46 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:46 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:46 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:46 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:46 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:46 [INFO] Network scan completed.
+2026-05-12 23:48:47 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:47 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:47 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:47 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:47 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:47 [INFO] Network scan completed.
+2026-05-12 23:48:47 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:47 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:47 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:47 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:47 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:47 [INFO] Network scan completed.
+2026-05-12 23:48:48 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:48 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:48 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:48 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:48 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:48 [INFO] Network scan completed.
+2026-05-12 23:48:48 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:48 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:48 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:48 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:48 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:48 [INFO] Network scan completed.
+2026-05-12 23:48:49 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:49 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:49 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:49 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:49 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:49 [INFO] Network scan completed.
+2026-05-12 23:48:49 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:49 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:49 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:49 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:49 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:49 [INFO] Network scan completed.
+2026-05-12 23:48:50 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:50 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:50 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:50 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:50 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:50 [INFO] Network scan completed.
+2026-05-12 23:48:50 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:50 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:50 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:50 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:50 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:50 [INFO] Network scan completed.
+2026-05-12 23:48:51 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:51 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:51 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:51 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:51 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:51 [INFO] Network scan completed.
+2026-05-12 23:48:51 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:51 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:51 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:51 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:51 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:51 [INFO] Network scan completed.
+2026-05-12 23:48:51 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:48:51 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:48:51 [INFO] [SCAN] Port mode: top
+2026-05-12 23:48:52 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:48:52 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:48:52 [INFO] Network scan completed.
+2026-05-12 23:49:00 [INFO] Network scan started: 8.8.8.8 / top
+2026-05-12 23:49:00 [INFO] [SCAN] Starting scan on 8.8.8.8 (1 host(s))
+2026-05-12 23:49:00 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:01 [INFO] [HOST] 8.8.8.8 is DOWN (no response)
+2026-05-12 23:49:01 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:01 [INFO] Network scan completed.
+2026-05-12 23:49:02 [INFO] Network scan started: 8.8.8.8 / top
+2026-05-12 23:49:02 [INFO] [SCAN] Starting scan on 8.8.8.8 (1 host(s))
+2026-05-12 23:49:02 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:02 [INFO] [HOST] 8.8.8.8 is DOWN (no response)
+2026-05-12 23:49:02 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:02 [INFO] Network scan completed.
+2026-05-12 23:49:02 [INFO] Network scan started: 8.8.8.8 / top
+2026-05-12 23:49:02 [INFO] [SCAN] Starting scan on 8.8.8.8 (1 host(s))
+2026-05-12 23:49:02 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:02 [INFO] [HOST] 8.8.8.8 is DOWN (no response)
+2026-05-12 23:49:02 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:02 [INFO] Network scan completed.
+2026-05-12 23:49:28 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:28 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:28 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:28 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:28 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:28 [INFO] Network scan completed.
+2026-05-12 23:49:29 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:29 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:29 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:29 [INFO] [HOST] 104.156.251.240 is UP – scanning ports…
+2026-05-12 23:49:30 [INFO]   [OPEN] 104.156.251.240:21  FTP
+2026-05-12 23:49:30 [INFO]   [OPEN] 104.156.251.240:22  SSH [SSH-2.0-OpenSSH_4.3]
+2026-05-12 23:49:30 [INFO]   [OPEN] 104.156.251.240:3306  MySQL [G   jHost '154.198.84.185' is not allow]
+2026-05-12 23:49:30 [INFO]   [OPEN] 104.156.251.240:111  RPC
+2026-05-12 23:49:30 [INFO]   [OPEN] 104.156.251.240:80  HTTP
+2026-05-12 23:49:30 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:30 [INFO] Network scan completed.
+2026-05-12 23:49:39 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:39 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:39 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:40 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:40 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:40 [INFO] Network scan completed.
+2026-05-12 23:49:40 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:40 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:40 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:40 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:40 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:40 [INFO] Network scan completed.
+2026-05-12 23:49:41 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:41 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:41 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:41 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:41 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:41 [INFO] Network scan completed.
+2026-05-12 23:49:42 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:42 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:42 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:42 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:42 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:42 [INFO] Network scan completed.
+2026-05-12 23:49:42 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:42 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:42 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:42 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:42 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:42 [INFO] Network scan completed.
+2026-05-12 23:49:43 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:43 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:43 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:43 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:43 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:43 [INFO] Network scan completed.
+2026-05-12 23:49:43 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:43 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:43 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:43 [INFO] [HOST] 104.156.251.240 is DOWN (no response)
+2026-05-12 23:49:43 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:43 [INFO] Network scan completed.
+2026-05-12 23:49:44 [INFO] Network scan started: 104.156.251.240 / top
+2026-05-12 23:49:44 [INFO] [SCAN] Starting scan on 104.156.251.240 (1 host(s))
+2026-05-12 23:49:44 [INFO] [SCAN] Port mode: top
+2026-05-12 23:49:44 [INFO] [HOST] 104.156.251.240 is UP – scanning ports…
+2026-05-12 23:49:44 [INFO]   [OPEN] 104.156.251.240:21  FTP
+2026-05-12 23:49:44 [INFO]   [OPEN] 104.156.251.240:22  SSH [SSH-2.0-OpenSSH_4.3]
+2026-05-12 23:49:44 [INFO]   [OPEN] 104.156.251.240:3306  MySQL [G   jHost '154.198.84.185' is not allow]
+2026-05-12 23:49:45 [INFO]   [OPEN] 104.156.251.240:80  HTTP
+2026-05-12 23:49:45 [INFO]   [OPEN] 104.156.251.240:111  RPC
+2026-05-12 23:49:45 [INFO] <span style='color:#ff4d4d'>[ERR] NetworkScanWorker.host_found[str, str, list, str].emit(): argument 4 has unexpected type 'dict'</span>
+2026-05-12 23:49:45 [INFO] Network scan completed.
+2026-05-12 23:50:33 [INFO] URL analysis started: https://google.com
+2026-05-12 23:50:33 [INFO] URL analysis completed.
+2026-05-12 23:50:46 [INFO] URL analysis started: https://onlineecers.com
+2026-05-12 23:50:46 [INFO] URL analysis completed.
+2026-05-12 23:50:57 [INFO] URL analysis started: sigmatel.com
+2026-05-12 23:50:57 [INFO] URL analysis completed.
+2026-05-12 23:51:03 [INFO] URL analysis started: https://sigmatel.com
+2026-05-12 23:51:03 [INFO] URL analysis completed.
+2026-05-12 23:51:38 [INFO] Domain lookup started: sigmatelagency.com
+2026-05-12 23:51:51 [INFO] Domain lookup completed.
+2026-05-12 23:51:57 [INFO] Domain lookup started: facebook.com
+2026-05-12 23:52:07 [INFO] Domain lookup completed.
+2026-05-12 23:52:18 [INFO] Email check started: trixsolution1@gmail.com
+2026-05-12 23:52:18 [INFO] Email check completed.
+2026-05-12 23:52:45 [INFO] <span style='color:#ffa500'>[WARN] No results to export.</span>
