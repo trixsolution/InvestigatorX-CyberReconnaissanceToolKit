@@ -58,11 +58,16 @@ def export_txt(lines: list[str], module_name: str) -> str:
 
 
 def list_reports() -> list[dict]:
-    """Return metadata for all saved reports."""
+    """Return metadata for all saved reports (JSON and TXT only)."""
     ensure_reports_dir()
     reports = []
     for fname in sorted(os.listdir(REPORTS_DIR), reverse=True):
         fpath = os.path.join(REPORTS_DIR, fname)
+        # Skip subdirectories and non-report files
+        if not os.path.isfile(fpath):
+            continue
+        if not (fname.endswith(".json") or fname.endswith(".txt")):
+            continue
         stat = os.stat(fpath)
         reports.append(
             {

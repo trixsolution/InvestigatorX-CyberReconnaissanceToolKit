@@ -235,7 +235,7 @@ class NetworkScannerWidget(QWidget):
         self._results.clear()
         self._progress.setValue(0)
 
-    @pyqtSlot(str, str, list, str)
+    @pyqtSlot(str, str, list, object)
     def _add_table_row(self, ip: str, status: str, ports: list, services):
         """Add one host result row to the table."""
         row = self._table.rowCount()
@@ -285,11 +285,14 @@ class NetworkScannerWidget(QWidget):
 
     @pyqtSlot(str)
     def _log(self, msg: str):
-        """Append formatted HTML to terminal."""
-        # Always HTML-escape raw text first so banners with <, >, & don't
-        # corrupt the Qt HTML renderer and cause truncated output.
+        """Append a plain-text message to the terminal with colour coding.
+
+        This method always receives PLAIN TEXT from the worker.  It HTML-escapes
+        the content before inserting so that banners containing <, > or & never
+        corrupt the Qt rich-text renderer.
+        """
         escaped = html_escape(msg).replace("\n", "<br>")
-        # colour by content
+        # colour by content (check the raw msg so tags don't interfere)
         if "[OPEN]" in msg:
             line = f"<span style='color:#00ff9f'>{escaped}</span>"
         elif "[ERR]" in msg or "DOWN" in msg:
@@ -304,16 +307,23 @@ class NetworkScannerWidget(QWidget):
         sb.setValue(sb.maximum())
         session_logger.info(msg)
 
+    def _log_html(self, html: str):
+        """Append a pre-built HTML snippet directly (used internally for export messages)."""
+        self._terminal.append(html)
+        sb = self._terminal.verticalScrollBar()
+        sb.setValue(sb.maximum())
+
     def _export_json(self):
         if not self._results:
-            self._log("<span style='color:#ffa500'>[WARN] No results to export.</span>")
+            self._log_html("<span style='color:#ffa500'>[WARN] No results to export.</span>")
             return
         path = export_json(self._results, "network_scanner")
-        self._log(f"<span style='color:#00e5ff'>[EXPORT] JSON saved: {path}</span>")
+        self._log_html(f"<span style='color:#00e5ff'>[EXPORT] JSON saved: {html_escape(path)}</span>")
+        session_logger.info(f"[EXPORT] JSON saved: {path}")
 
     def _export_txt(self):
         if not self._results:
-            self._log("<span style='color:#ffa500'>[WARN] No results to export.</span>")
+            self._log_html("<span style='color:#ffa500'>[WARN] No results to export.</span>")
             return
         lines = []
         for r in self._results:
@@ -324,4 +334,5 @@ class NetworkScannerWidget(QWidget):
                     lines.append(f"    [{port}] {svc}")
             lines.append("")
         path = export_txt(lines, "network_scanner")
-        self._log(f"<span style='color:#00e5ff'>[EXPORT] TXT saved: {path}</span>")
+        self._log_html(f"<span style='color:#00e5ff'>[EXPORT] TXT saved: {html_escape(path)}</span>")
+        session_logger.info(f"[EXPORT] TXT saved: {path}")

@@ -21,7 +21,7 @@ class BaseWorker(QThread):
 class NetworkScanWorker(BaseWorker):
     """Worker for network scanning operations."""
 
-    host_found = pyqtSignal(str, str, list, str)  # ip, status, ports, services
+    host_found = pyqtSignal(str, str, list, object)  # ip, status, ports, services (dict)
     scan_complete = pyqtSignal(list)               # list of result dicts
 
     def __init__(self, target: str, port_mode: str,

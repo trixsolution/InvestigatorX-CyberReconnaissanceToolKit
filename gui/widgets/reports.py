@@ -5,6 +5,7 @@ Reports panel – browse saved reports, preview content, open files.
 
 import os
 import json
+from html import escape as html_escape
 
 from PyQt5.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton,
@@ -177,17 +178,17 @@ class ReportsWidget(QWidget):
                 try:
                     parsed = json.loads(content)
                     pretty = json.dumps(parsed, indent=2, default=str)
-                    # Syntax-highlight JSON keys
+                    # Syntax-highlight JSON keys – escape each segment
                     for line in pretty.splitlines():
                         if '":' in line:
                             key, _, rest = line.partition('":')
                             self._preview.append(
-                                f"<span style='color:#00e5ff'>{key}\":</span>"
-                                f"<span style='color:#c9d1d9'>{rest}</span>"
+                                f"<span style='color:#00e5ff'>{html_escape(key)}\":</span>"
+                                f"<span style='color:#c9d1d9'>{html_escape(rest)}</span>"
                             )
                         else:
                             self._preview.append(
-                                f"<span style='color:#c9d1d9'>{line}</span>"
+                                f"<span style='color:#c9d1d9'>{html_escape(line)}</span>"
                             )
                 except json.JSONDecodeError:
                     self._preview.setPlainText(content)
@@ -195,12 +196,12 @@ class ReportsWidget(QWidget):
                 for line in content.splitlines():
                     color = "#00ff9f" if line.startswith("  [") else "#c9d1d9"
                     self._preview.append(
-                        f"<span style='color:{color}'>{line}</span>"
+                        f"<span style='color:{color}'>{html_escape(line)}</span>"
                     )
 
         except Exception as e:
             self._preview.append(
-                f"<span style='color:#ff4d4d'>[ERR] Cannot read file: {e}</span>"
+                f"<span style='color:#ff4d4d'>[ERR] Cannot read file: {html_escape(str(e))}</span>"
             )
 
     def _open_reports_dir(self):
